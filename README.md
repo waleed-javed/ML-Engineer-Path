@@ -26,10 +26,10 @@
     <img src="https://www.govconwire.com/wp-content/uploads/2021/10/DHS-Seeks-to-Harness-AIML-Opportunities-Through-Science-amp-Technology-Directorates-Strategic-Plan.png" alt="Logo">
   </a>
 
-  <h3 align="center">Data Science Projects</h3>
+  <h3 align="center">AI and ML Course</h3>
 
   <p align="center">
-    Data science combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract <br> meaningful insights from data. In turn, these systems generate insights which can then be translated into tangible business values.
+    AI & Machine learning is the study of computer algorithms that can improve automatically through experience and by the use of data. It is seen as a part of artificial intelligence.
     <br />
     <a href="https://github.com/waleed-javed/ML-Engineer-Path"><strong>Explore the docs »</strong></a>
     <br />
@@ -48,7 +48,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This Repo Contains Jupyter notebooks for DataScience Projects.
+This Repo Contains Jupyter notebooks, Code Files, Practice Assignments for ML Projects.
 
 ### Built Via
 
